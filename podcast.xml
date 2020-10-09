@@ -16,14 +16,12 @@
         <description>{{ site.description | xml_escape }}</description>
 		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
         <itunes:owner>
-			<itunes:name>{{ site.author }}</itunes:name>
-			<itunes:email>{{ site.email }}</itunes:email>
+			<itunes:name>Sohal Sudheer</itunes:name>
+			<itunes:email>sohalsdr@me.com</itunes:email>
 		</itunes:owner>
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/itunes.jpg" />
-		<itunes:category text="Technology" />
-		<itunes:category text="Society &amp; Culture" />
-        <itunes:category text="Education">
-            <itunes:category text="Educational Technology" />
+        <itunes:category text="Leisure">
+        <itunes:category text="Video Games" />
         </itunes:category> 
         <itunes:explicit>no</itunes:explicit>
 		
