@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome to the home of the Unofficial TG Podcast
+Welcome to the home of the Unofficial TG Podcast!
 
 Host: Our Lord and Savior **VTD**
 Editor: **JMan_TheGamerYT**
