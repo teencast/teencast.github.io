@@ -4,6 +4,13 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
+name: The TG Podcast
+
+# Short bio or description (displayed in the header)
+description: The Unofficial TG Pogcast
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: "https://cdn.discordapp.com/attachments/763961928673919037/764562621822926878/TGPodcast_Concept_3_1.png"
 
 # Site settings
 title: TG Podcast
@@ -22,9 +29,26 @@ timezone: United States/New York
 include: ['_pages']
 
 # Build settings
-markdown: kramdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
 
-#Exclude local build settings
-exclude: ['readme.md', 'Gemfile.lock', 'Gemfile']
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+
 
 theme: jekyll-theme-minimal
