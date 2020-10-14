@@ -4,17 +4,17 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
-name: The TG Podcast
+name: TG Media
 
 # Short bio or description (displayed in the header)
-description: The Unofficial TG Pogcast
+description: Home of the TG Podcast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: "https://cdn.discordapp.com/attachments/763961928673919037/764562621822926878/TGPodcast_Concept_3_1.png"
 
 # Site settings
 title: TG Podcast
-description: "The Unofficial TG Podcast"
+description: "A podcast for TG Players, by TG Players"
 subtitle: "The first, best, and only podcast that is beamed directly into your earholes from our Lord and Savior VTD"
 lang: en-us
 author: ABlazingEBoy # the subpath of your site, e.g. /blog
