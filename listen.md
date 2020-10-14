@@ -6,7 +6,7 @@ permalink: /listen/
 
 So you might be asking yourself:
 
-### "This podcast seems absolutely dope, but how do i get it into my earholes?"
+### "This podcast seems absolutely dope, but how do I get it into my earholes?"
 
 Good news for you, its pretty easy to find! 
 You can catch us on any of these fine services:
