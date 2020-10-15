@@ -1,40 +1,18 @@
 ---
 layout: default
 ---
-<p>Welcome to the <strong>TG Podcast</strong>. This podcast is likely the gayest thing known to man, but what do we have to lose!</a>.</p>
 
-<p>Catch us at <a href="https://podcasts.apple.com/us/podcast/">iTunes</a>, <a href="https://open.spotify.com/show/1zikwM6bOUu1jC8vAA51XU">Spotify</a>, …or the podcast catcher of your choice.</p>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-<div class="card-grid">
-<!--     -->
-    
-    {% assign first_post = site.posts.first %}
-    <div class="cards first">
-        <h1 class="label reversed">Latest Episode</h1>
-        <div class="center-content">
-            <div class="seven columns">
-                <h2><a class="post-link" href="{{ first_post.url | prepend: site.baseurl }}">{{ first_post.title }}</a></h2>
-                
-                <p class="meta">{{ first_post.date | date: "%b %-d, %Y" }}</p>
-                <p>{{ first_post.summary }} </p> 
-            </div>
-            <div class="four columns center-content">
-                <a href="{{ first_post.file }}" class="button button-primary" download="{{ first_post.title }}">Download Now</a>    
-            </div>
-        </div>            
-        </div>
-    
-    {% for post in site.posts offset:1 %}
-        <div class="cards">
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <p class="meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-        <p>{{ post.summary }} </p>
-        </div>
-    {% endfor %}
-    
-</div>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-<div class="container center-content extra-padding">
+      <div class="entry">
+        {{ post.summary }}
+      </div>
+      
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
 </div>
