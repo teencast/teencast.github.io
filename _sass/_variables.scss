@@ -25,8 +25,9 @@ $white: #fff;
 // $helvetica: Helvetica, Arial, sans-serif;
 // $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 // $georgia: Georgia, serif;
-$iosevka: "TypoPRO Iosevka Term", Arial, sans-serif;
-$manrope: "Manrope", Arial, sans-serif;
+$iosevka: "TypoPRO Iosevka Term", 'Courier', monospace;
+$manrope: "Manrope", 'Arial', sans-serif;
+$fira: "Fira Sans", 'Arial', sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
