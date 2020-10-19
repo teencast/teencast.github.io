@@ -24,7 +24,7 @@ VTD interviews the TG Mod Cheese_Addict, well known as a main figure in the Birc
 
 Credits:
 - Music: Pigstep - Lena Raine
-- Editor: JMan_TheGamerYT
+- Editor: Jman_TheGamer
 - Host: VTD
 - Guest: Cheese_Addict
 - Website/Podcast Feed: ABlazingEBoy
