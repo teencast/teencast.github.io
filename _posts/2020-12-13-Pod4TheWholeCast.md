@@ -7,9 +7,9 @@ summary: "Spirit City founder Fun4TheWholeFam appears on the podcast!"
 description: "In this episode VTD interviews Fun4TheWholeFam, Founder of Port Lacago, Ghost Town, and Spirit City. He discusses town leadership, his short time on TGN, and much more!
 \nCredits:
 \n    Music: Pigstep - Lena Raine
-\n    Editors: JMan_Thegamer, Wuzado
+\n    Editor: Wuzado
 \n    Host: VTD
-\n    Guest: Pyrofail
+\n    Guest: Fun4TheWholeFam
 \n    Website/Podcast Feed: ABlazingEBoy"
 duration: "32:57" 
 length: "1977"
