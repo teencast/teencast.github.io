@@ -4,21 +4,21 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
-name: TG Media
+name: Teencast
 
 # Short bio or description (displayed in the header)
-description: Home of the TG Podcast
+description: Welcome to... well, just listen for yourself.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "https://cdn.discordapp.com/attachments/763961928673919037/764562621822926878/TGPodcast_Concept_3_1.png"
+avatar: "https://cdn.discordapp.com/attachments/745458578319736955/820781337321537576/81ea181bc9bd7445970ae653ac209d0f659d5e41.png"
 
 # Site settings
-title: TG Podcast
-description: "Home of the podcast for TG Players, by TG Players"
-subtitle: "The first, best, and only podcast that is beamed directly into your earholes from our Lord and Savior VTD"
+title: The r/teenagers Teencast
+description: "Welcome to... well, just listen for yourself."
+subtitle: "Welcome to... well, just listen for yourself"
 lang: en-us
-author: ABlazingEBoy # the subpath of your site, e.g. /blog
-url: "https://tgpodcast.github.io" # the base hostname & protocol for your site
+author: r/teenagers Mods
+url: "https://teencast.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:title.html
 

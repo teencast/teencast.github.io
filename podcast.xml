@@ -16,8 +16,8 @@
         <description>{{ site.description | xml_escape }}</description>
 		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
         <itunes:owner>
-			<itunes:name>Sohal Sudheer</itunes:name>
-			<itunes:email>sohalsdr@me.com</itunes:email>
+			<itunes:name></itunes:name>
+			<itunes:email></itunes:email>
 		</itunes:owner>
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/itunes2.png" />
         <image href="{{ site.url }}{{ site.baseurl }}/images/itunes2.png" />
