@@ -6,10 +6,9 @@ permalink: /listen/
 
 So you might be asking yourself:
 
-### "This podcast seems absolutely dope, but how do I get it into my earholes?"
+### Links
 
-Good news for you, its pretty easy to find! 
-You can catch us on any of these fine services:
+You can catch us on any of these fine services!:
 
 [Spotify]()
 
@@ -17,11 +16,13 @@ You can catch us on any of these fine services:
 
 [Google]()
 
-### "But what if I'm weird and old fashioned and want to add it manually?"
+You can also search for the podcast in any major podcast catcher, and chances are you'll find us there!
 
-Well, we've gotcha covered, bub. Copy and paste this feed url into your favorite podcast catcher:
+### RSS Feed Link
 
-https://teencast.github.io/podcast.xml
+Copy and paste this feed url into your favorite podcast catcher:
+
+`https://teencast.github.io/podcast.xml`
 
 
 Prepare your ears for utter chaos...
