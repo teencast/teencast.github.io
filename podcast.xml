@@ -21,8 +21,7 @@
 		</itunes:owner>
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/itunes2.png" />
         <image href="{{ site.url }}{{ site.baseurl }}/images/itunes2.png" />
-        <itunes:category text="Leisure">
-        <itunes:category text="Video Games" />
+        <itunes:category text="Comedy">
         </itunes:category> 
         <itunes:explicit>no</itunes:explicit>
 		
