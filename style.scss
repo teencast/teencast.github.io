@@ -24,7 +24,7 @@ html {
 }
 
 body {
-	background: $darkerGray;
+	background: $white;
   font: 14px/1.4 $iosevka;
   color: $lightGray;
 }
@@ -198,7 +198,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $lightGray;
+  color: $darkerGray;
   cursor: pointer;
   font-family: $fira;
   font-weight: bolder;
@@ -208,7 +208,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $comment;
   font-size: 16px;
 
   @include mobile {
@@ -280,7 +280,7 @@ nav {
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid $darkGray;
-  background-color: $darkerGray;
+  background-color: $white;
 }
 
 footer {
