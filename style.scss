@@ -75,11 +75,11 @@ p {
 }
 
 a {
-  color: $red;
+  color: $comment;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $red;
+    color: $comment;
   }
 }
 
@@ -238,7 +238,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $red;
+      color: $comment;
     }
   }
 }
