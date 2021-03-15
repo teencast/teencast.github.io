@@ -4,8 +4,6 @@ title: How do I listen?
 permalink: /listen/
 ---
 
-So you might be asking yourself:
-
 ### Links
 
 You can catch us on any of these fine services!:
