@@ -28,9 +28,9 @@ voices: "Moizsh, ABlazingEBoy, Gabe, Pete, Tessa, commonsense"
 Thank god Moiz wrote that description out, because it's been three months of technical difficulties, but we've finally released it! Was it worth the wait? Probably not, but why not find out for yourself?
 
 Guests:
-    Moizsh
-    ABlazingEBoy
-    Gabe
-    Pete
-    Tessa
-    commonsense
+- Moizsh
+- ABlazingEBoy
+- Gabe
+- Pete
+- Tessa
+- commonsense
