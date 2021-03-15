@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ep 3.14 - Birds, Bees, and Questions for Teens"
+title: "Episode 3.14 - Birds, Bees, and Questions for Teens"
 date: 2021-01-01 17:30:00 EST
 file: https://archive.org/download/scrubbed-teenagers-podcast-ep-3/scrubbed%20teenagers%20Podcast%20Ep%203.mp3
 summary: "The r/teenagers podcast is back! After skipping from episode 0 straight to episode 2, we’re proud to present episode 3.14!"
