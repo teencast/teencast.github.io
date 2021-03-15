@@ -10,11 +10,9 @@ So you might be asking yourself:
 
 You can catch us on any of these fine services!:
 
-[Spotify]()
+[Spotify](https://www.youtube.com/watch?v=DLzxrzFCyOs)
 
-[iTunes]()
-
-[Google]()
+[iTunes](https://www.youtube.com/watch?v=DLzxrzFCyOs)
 
 You can also search for the podcast in any major podcast catcher, and chances are you'll find us there!
 
