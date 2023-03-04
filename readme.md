@@ -1,3 +1,3 @@
-# TG Podcast Site
+# Teencast RSS Feed
 
-See the site at https://tgpodcast.github.io
+See the site at https://teencast.github.io
